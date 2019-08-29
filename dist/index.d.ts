@@ -1,0 +1,1 @@
+export { Injecta } from "./injecta";

@@ -1,7 +1,7 @@
 {
   "name": "injecta",
   "version": "1.0.0",
-  "description": "A simple angularjs-style typescript and javascript dependency injection library",
+  "description": "A simple AngularJs or Angular-style typescript and javascript dependency injection library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": {
